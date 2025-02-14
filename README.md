@@ -33,18 +33,18 @@ Installation Instructions:
 
 Clone the repository:
 
-git clone https://github.com/SLMNFFT/M42.git
-cd M42
+                git clone https://github.com/SLMNFFT/M42.git
+                cd M42
 
 Create a virtual environment (optional but recommended):
 
-python -m venv venv
-source venv/bin/activate  # On macOS/Linux
-venv\Scripts\activate     # On Windows
+                python -m venv venv
+                source venv/bin/activate  # On macOS/Linux
+                venv\Scripts\activate     # On Windows
 
 Install dependencies:
 
-pip install -r requirements.txt
+                pip install -r requirements.txt
 
 Model Links:
 Hugging Face Hosted Model: facebook/musicgen-small
@@ -55,22 +55,22 @@ You can download the models from : [d](https://huggingface.co/models?other=music
 
 Required files for local models:
 
-config.json
+                config.json
 
-pytorch_model.bin
+                pytorch_model.bin
 
-preprocessor_config.json
+                preprocessor_config.json
 
 
 
 Requirements.txt:
 
-streamlit==1.28.0
-transformers==4.45.1
-torch
-numpy
-scipy
-pedalboard
+                streamlit==1.28.0
+                transformers==4.45.1
+                torch
+                numpy
+                scipy
+                pedalboard
 
 License:
 M42 - V0.1 is provided for personal and research use only. Commercial use is strictly prohibited without prior written approval from the author. For commercial licensing inquiries, please contact [slimfatti@gmail.com].
