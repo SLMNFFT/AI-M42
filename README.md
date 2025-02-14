@@ -70,5 +70,3 @@ pedalboard
 
 License:
 M42 - V0.1 is provided for personal and research use only. Commercial use is strictly prohibited without prior written approval from the author. For commercial licensing inquiries, please contact [your email or contact method].
-
-
