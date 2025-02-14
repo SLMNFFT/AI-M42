@@ -45,7 +45,7 @@ Description of Key Folders:
 
                 │   └── /facebook
 
-                │       └── /musicgen-small
+                │       └── /musicgen-small / other Models
 
                 ├── /assets
 
