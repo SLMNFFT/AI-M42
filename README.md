@@ -37,7 +37,7 @@ Installation Instructions:
 
 Clone the repository:
 
-git clone https://github.com/your-repo/M42.git
+git clone https://github.com/SLMNFFT/M42.git
 cd M42
 
 Create a virtual environment (optional but recommended):
