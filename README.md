@@ -41,23 +41,23 @@ Description of Key Folders:
             /README.md: (optional) A file to explain the purpose of the project, usage instructions, and setup details.
 
         /M42_V0.1
-        ├── /models
+                ├── /models
 
-        │   └── /facebook
+                │   └── /facebook
 
-        │       └── /musicgen-small
+                │       └── /musicgen-small
 
-        ├── /assets
+                ├── /assets
 
-        │   └── /processed_output.wav
+                │   └── /processed_output.wav
 
-        │   └── /musicgen_output.wav
+                │   └── /musicgen_output.wav
 
-        ├── /app.py  # Main Streamlit app (the script you provided)
+                ├── /app.py  # Main Streamlit app (the script you provided)
 
-        ├── /requirements.txt  # If needed to list dependencies like torch, pedalboard, etc.
+                ├── /requirements.txt  # If needed to list dependencies like torch, pedalboard, etc.
 
-        └── /README.md  # Documentation about the project (if needed)
+                └── /README.md  # Documentation about the project (if needed)
 
 Clone the repository:
 
