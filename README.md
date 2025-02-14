@@ -1,5 +1,5 @@
 # M42 V 0.1 Beta
-Musicgen based AI Music generator
+AI Music generator
 
 M42 - V0.1
 
