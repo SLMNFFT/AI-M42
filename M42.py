@@ -14,7 +14,7 @@ st.write("Professional-grade AI Music Generation with Detailed Controls")
 
 # Available models
 models = {
-    "Github": "facebook/musicgen-small",
+    "HuggingFace": "facebook/musicgen-small",
     "CarloLocal": "/home/gringo/Desktop/Msc/models/facebook/musicgen-small/"
 }
 
@@ -247,4 +247,3 @@ def generate_music():
 # Generate music on button click
 if st.button("Generate Music"):
     generate_music()
-
