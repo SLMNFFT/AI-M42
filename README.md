@@ -52,7 +52,7 @@ Hugging Face Hosted Model: facebook/musicgen-small
 Local Model Path Example: /home/user/Desktop/folder/models/facebook/musicgen-small/
 
 
-You can download the models from : [d](https://huggingface.co/models?other=musicgen)
+You can download the models from : [HuggingFace](https://huggingface.co/models?other=musicgen)
 
 Required files for local models:
 
