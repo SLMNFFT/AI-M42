@@ -24,13 +24,9 @@ M42 - V0.1 is a professional-grade AI music generation application built using S
 Features:
 
 AI-powered music generation using text descriptions.
-
 Adjustable musical composition parameters (scale, progression, mood, etc.).
-
 Advanced sampling controls (temperature, top-k, top-p, guidance scale).
-
 Built-in audio post-processing (filters, compression, reverb, delay, distortion, etc.).
-
 Local and Hugging Face-hosted model support.
 
 Installation Instructions:
@@ -53,8 +49,7 @@ pip install -r requirements.txt
 Model Links:
 
 Hugging Face Hosted Model: facebook/musicgen-small
-
-Local Model Path Example: /home/gringo/Desktop/Msc/models/facebook/musicgen-small/
+Local Model Path Example: /home/user/Desktop/folder/models/facebook/musicgen-small/
 
 Required files for local models:
 
