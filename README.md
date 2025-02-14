@@ -1,4 +1,4 @@
-# M42
+# M42 Beta
 Musicgen based AI Music generator
 
 M42 - V0.1
