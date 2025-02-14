@@ -47,9 +47,11 @@ Install dependencies:
 pip install -r requirements.txt
 
 Model Links:
-
 Hugging Face Hosted Model: facebook/musicgen-small
 Local Model Path Example: /home/user/Desktop/folder/models/facebook/musicgen-small/
+
+
+You can download the models from : [d](https://huggingface.co/models?other=musicgen)
 
 Required files for local models:
 
@@ -58,6 +60,8 @@ config.json
 pytorch_model.bin
 
 preprocessor_config.json
+
+
 
 Requirements.txt:
 
