@@ -32,6 +32,25 @@ Features:
 
 Installation Instructions:
 
+Description of Key Folders:
+
+            /models/facebook/musicgen-small: Directory where the local model files (e.g., config.json, pytorch_model.bin,                   preprocessor_config.json) are stored. This is used if you are running the local version of the model.
+            /assets: Folder to store any generated or processed audio files, such as the output of the music generation process.
+            /app.py: This is the main file containing the Streamlit app code you provided.
+            /requirements.txt: (optional) A file to list the Python dependencies for the project, e.g., torch, pedalboard,                  transformers, etc.
+            /README.md: (optional) A file to explain the purpose of the project, usage instructions, and setup details.
+
+/M42_V0.1
+├── /models
+│   └── /facebook
+│       └── /musicgen-small
+├── /assets
+│   └── /processed_output.wav
+│   └── /musicgen_output.wav
+├── /app.py  # Main Streamlit app (the script you provided)
+├── /requirements.txt  # If needed to list dependencies like torch, pedalboard, etc.
+└── /README.md  # Documentation about the project (if needed)
+
 Clone the repository:
 
                 git clone https://github.com/SLMNFFT/M42.git
