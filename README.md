@@ -57,12 +57,8 @@ You can download the models from : [HuggingFace](https://huggingface.co/models?o
 Required files for local models:
 
                 config.json
-
                 pytorch_model.bin
-
                 preprocessor_config.json
-
-
 
 Requirements.txt:
 
@@ -74,4 +70,5 @@ Requirements.txt:
                 pedalboard
 
 License:
-M42 - V0.1 is provided for personal and research use only. Commercial use is strictly prohibited without prior written approval from the author. For commercial licensing inquiries, please contact [slimfatti@gmail.com].
+
+                M42 - V0.1 is provided for personal and research use only. Commercial use is strictly prohibited without prior                  written approval from the author. For commercial licensing inquiries, please contact [slimfatti@gmail.com].
