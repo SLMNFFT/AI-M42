@@ -40,16 +40,24 @@ Description of Key Folders:
             /requirements.txt: (optional) A file to list the Python dependencies for the project, e.g., torch, pedalboard,                  transformers, etc.
             /README.md: (optional) A file to explain the purpose of the project, usage instructions, and setup details.
 
-/M42_V0.1
-├── /models
-│   └── /facebook
-│       └── /musicgen-small
-├── /assets
-│   └── /processed_output.wav
-│   └── /musicgen_output.wav
-├── /app.py  # Main Streamlit app (the script you provided)
-├── /requirements.txt  # If needed to list dependencies like torch, pedalboard, etc.
-└── /README.md  # Documentation about the project (if needed)
+        /M42_V0.1
+        ├── /models
+
+        │   └── /facebook
+
+        │       └── /musicgen-small
+
+        ├── /assets
+
+        │   └── /processed_output.wav
+
+        │   └── /musicgen_output.wav
+
+        ├── /app.py  # Main Streamlit app (the script you provided)
+
+        ├── /requirements.txt  # If needed to list dependencies like torch, pedalboard, etc.
+
+        └── /README.md  # Documentation about the project (if needed)
 
 Clone the repository:
 
