@@ -1,7 +1,7 @@
 # M42 V 0.1 Beta
-AI Music generator
+        AI Music generator
 
-M42 - V0.1
+        M42 - V0.1
 
 
 
@@ -19,7 +19,8 @@ M42 - V0.1
 
 
 Project Overview:
-M42 - V0.1 is a professional-grade AI music generation application built using Streamlit. It leverages Meta's MusicGen model for text-based music generation and includes advanced controls for fine-tuning musical parameters and audio post-processing.
+
+        M42 - V0.1 is a professional-grade AI music generation application built using Streamlit. It leverages Meta's MusicGen model for text-based music generation and includes advanced controls for fine-tuning musical parameters and                audio post-processing.
 
 Features:
 
