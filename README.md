@@ -1,4 +1,4 @@
-# M42 V 0.1 Beta
+# AI - M42 V 0.1 Beta
         AI Music generator
 
         M42 - V0.1
