@@ -23,11 +23,11 @@ M42 - V0.1 is a professional-grade AI music generation application built using S
 
 Features:
 
-AI-powered music generation using text descriptions.
-Adjustable musical composition parameters (scale, progression, mood, etc.).
-Advanced sampling controls (temperature, top-k, top-p, guidance scale).
-Built-in audio post-processing (filters, compression, reverb, delay, distortion, etc.).
-Local and Hugging Face-hosted model support.
+        - AI-powered music generation using text descriptions.
+        - Adjustable musical composition parameters (scale, progression, mood, etc.).
+        - Advanced sampling controls (temperature, top-k, top-p, guidance scale).
+        - Built-in audio post-processing (filters, compression, reverb, delay, distortion, etc.).
+        - Local and Hugging Face-hosted model support.
 
 Installation Instructions:
 
