@@ -13,19 +13,20 @@ Copy
 + New In-Memory Audio Engine
 + Enhanced Kodály Integration
 
-
-
+Generate a Musci track
 ![Screenshot from 2025-02-15 01-01-21](https://github.com/user-attachments/assets/8db32520-629a-49c5-a852-11f24eb08b28)
 
+Gemerate a Drum Pattern
 ![Screenshot from 2025-02-15 01-01-33](https://github.com/user-attachments/assets/56378748-6baf-4b8b-a397-0bf52df21282)
 
+Generate a sequence
 ![Screenshot from 2025-02-15 01-01-43](https://github.com/user-attachments/assets/99469929-2179-4d68-900a-e904a39d2063)
 
+DAW Interface
 ![Screenshot from 2025-02-15 01-01-56](https://github.com/user-attachments/assets/8c1a3512-1792-4849-9447-f2fc72f4aab1)
+
+
 Project Overview:
-
-
-
 
 🎛️ Core Components
 Module	Description
